@@ -6,11 +6,11 @@ disable-components=postgres
 # Use JDBC settings for an existing database
 #for mysql
 
-jdbc_url=jdbc:mysql://192.168.1.235:3306/alfresco6?useUnicode=yes&characterEncoding=UTF-8
+jdbc_url=jdbc:mysql://192.168.1.235:3306/alfresco7?useUnicode=yes&characterEncoding=UTF-8
 jdbc_driver=org.gjt.mm.mysql.Driver
-jdbc_database=alfresco6
-jdbc_username=alfresco6
-jdbc_password=alfresco6
+jdbc_database=alfresco7
+jdbc_username=alfresco7
+jdbc_password=alfresco7
 
 
 
